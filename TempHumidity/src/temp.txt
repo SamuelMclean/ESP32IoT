@@ -5,8 +5,8 @@
 #include <WiFiUdp.h>
 #include <NTPClient.h>
 
-const char* ssid     = "TelstraE9B3F0";
-const char* password = "tkkpjaasphcen4u5";
+const char* ssid     = "";
+const char* password = "";
 
 const char* daysOfTheWeek[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 
